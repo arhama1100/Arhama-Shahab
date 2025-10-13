@@ -63,7 +63,7 @@ Here are a few cool projects showcased in my portfolio:
 
 Let’s connect, collaborate, and create! 🚀  
 
-📧 **Email:** arhama.shahab@gmail.com  
+📧 **Email:** arhamashahab1000@gmail.com  
 📍 **Location:** Lahore, Pakistan  
 🌐 [LinkedIn](https://www.linkedin.com/in/arhama-shahab) • [GitHub](https://github.com/arhama1100) • [Instagram](#)  
 
