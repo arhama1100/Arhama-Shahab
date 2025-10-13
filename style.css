@@ -249,7 +249,6 @@ header {
     color: var(--accent);
     min-height: 60px;
     font-weight: 600;
-    /* Added word-wrap for long text on small screens */
     word-wrap: break-word;
 }
 
@@ -669,8 +668,6 @@ header {
     }
 
     @keyframes scroll-left {
-
-        /* Adjusted keyframe for smaller screens */
         100% {
             transform: translateX(calc(-3 * (300px + 30px)));
         }
@@ -1321,3 +1318,4 @@ footer {
         height: 40px;
     }
 }
+
