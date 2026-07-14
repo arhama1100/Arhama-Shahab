@@ -133,7 +133,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 30px;
-    margin: 25px auto;
+    margin: 0 auto;
     border: 2px solid var(--deep-purple);
     border-radius: 40px;
 
@@ -202,7 +202,7 @@ header {
         radial-gradient(circle at 40% 80%, var(--medium-purple), transparent 40%);
     position: relative;
     overflow: hidden;
-    padding-top: 80px;
+    padding-top: 210px;
 }
 
 .hero::before {
@@ -228,12 +228,12 @@ header {
 .hero-text {
     flex: 1;
     transform: translateZ(50px);
-    margin-top: 60px;
+    margin-top: 0;
 }
 
 .hero-text h1 {
     font-family: 'Orbitron', sans-serif;
-    font-size: 4rem;
+    font-size: 3.5rem;
     margin-bottom: 10px;
     line-height: 1.2;
     background: linear-gradient(to right, var(--accent), var(--light-purple));
